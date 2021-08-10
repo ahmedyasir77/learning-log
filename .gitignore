@@ -1,0 +1,10 @@
+# Django 
+*.log
+db.sqlite3
+
+# Environments
+.env 
+ll_env
+
+# Bite-compiled
+__pycache__
